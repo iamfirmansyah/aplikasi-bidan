@@ -8,3 +8,5 @@ Terdapat fitur sebagai berikut :
 5. Input Data
 Hak akses Admin
 
+![Screenshot (25)](https://user-images.githubusercontent.com/45587433/61658418-83ce3000-acef-11e9-8269-588dd298d8ca.png)
+![Screenshot (23)](https://user-images.githubusercontent.com/45587433/61658358-64370780-acef-11e9-9249-85e7d7a400d6.png)
